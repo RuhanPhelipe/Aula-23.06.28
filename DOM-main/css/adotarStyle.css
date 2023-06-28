@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+main {
+    color: white;
+    background-color: darkblue;
+}
+
+.erro {
+    background-color: red;
+}
+
+.campo-brigatorio {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+}
+.campo-brigatorio img {
+    width: 10px;
+}
